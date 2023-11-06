@@ -14,7 +14,7 @@
 - 🎮​   &nbsp; &nbsp; Co-Founder of <a href="https://www.enneonline.org/">Enne project</a>
  , a retroserver of Nostale (An 2006 MMORPG)
 - 🧑‍💼​ Unemployed
-- 👀​  &nbsp; &nbsp; Looking for job opportunities in a young, collaborative, and stimulating environment around Scandinavia.
+- 👀​  &nbsp; &nbsp; Looking for job opportunities in a dynamic, collaborative, and pro-active stimulating environment around Scandinavia.
   
 &nbsp;
 
