@@ -71,7 +71,9 @@
   <br/>
   </p>
 </details>
-
+<h3>
+    <a href="https://github.com/Noctino52/Noctino52/files/13295994/Ivan.Capasso.pdf">🧑‍💼 Curriculum</a>
+</h3>
 <br />
 <br />
 
