@@ -4,7 +4,7 @@
 <img src="https://github.com/Noctino52/Noctino52/assets/20641545/6d2a224c-fdb0-4928-b8d1-e7102c4cd234" alt="Image">
   <div class="column" align="left">
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Debugging+myself+from+bugs;Hapiness+should+be+a+void+function;Nerdic+wannabe)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Debugging+myself+from+bugs;Happiness+should+be+a+void+function;Nerdic+wannabe)](https://git.io/typing-svg)
   
   <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
