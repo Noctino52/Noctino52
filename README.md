@@ -8,12 +8,12 @@
   
   <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 🎓  &nbsp;  &nbsp; Recently completed a Master's degree in Computer Science.
+- 🎓  &nbsp;  &nbsp; Master's degree in Computer Science.
 - 🚀​  &nbsp;  &nbsp; Learning NodeJS, UI Design and Design pattern
 - 🤓​   &nbsp; &nbsp; Nerdy about gaming, modding and manga
 - 🎮​   &nbsp; &nbsp; Co-Founder of <a href="https://www.enneonline.org/">Enne project</a>
  , a retroserver of Nostale (An 2006 MMORPG)
-- 🧑‍💼​ Unemployed
+- 🧑‍💼 [Looking for Job opportunities](https://drive.google.com/file/d/1yIK2Ed4l9s62_hB7auvIbgeMeOZvtRbe/view?usp=sharing)
 <!--- - 👀​  &nbsp; &nbsp; Looking for job opportunities in a dynamic, collaborative, and pro-active environment around Scandinavia and Northern Europe 🇸🇪 🇩🇰 🇫🇮 🇳🇴 🇮🇸 🇩🇪 🇳🇱 🇧🇪 🇫🇷. -->
   
 &nbsp;
