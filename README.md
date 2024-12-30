@@ -13,7 +13,7 @@
 - 🤓​   &nbsp; &nbsp; Nerdy about gaming, modding and manga
 - 🎮​   &nbsp; &nbsp; Co-Founder of <a href="https://www.enneonline.org/">Enne project</a>
  , a retroserver of Nostale (An 2006 MMORPG)
-- 🧑‍💼 [Looking for Job opportunities](https://drive.google.com/file/d/1yIK2Ed4l9s62_hB7auvIbgeMeOZvtRbe/view?usp=sharing)
+- 🧑‍💼 Looking for Job opportunities
 <!--- - 👀​  &nbsp; &nbsp; Looking for job opportunities in a dynamic, collaborative, and pro-active environment around Scandinavia and Northern Europe 🇸🇪 🇩🇰 🇫🇮 🇳🇴 🇮🇸 🇩🇪 🇳🇱 🇧🇪 🇫🇷. -->
   
 &nbsp;
@@ -72,7 +72,7 @@
   </p>
 </details>
 <h3>
-    <a href="https://github.com/Noctino52/Noctino52/files/13295994/Ivan.Capasso.pdf">🧑‍💼 Curriculum</a>
+    <a href="https://github.com/user-attachments/files/18274331/Ivan.Capasso.pdf"> 🧑‍💼 Curriculum </a>
 </h3>
 <br />
 <br />
